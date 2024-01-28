@@ -1,6 +1,6 @@
 # Statistical-Analysis
 
-Analytical resolution and code modeling for the following statistical problem:
+Analytical resolution and code modeling in R for the following statistical problem:
 A random vector (X, Y) is given, where X represents the concentration of sulfur in an alloy (%), and Y represents the hardness of the alloy. An analyst proposes the following joint probability density function (Formula in PDF).
 
 a) For the given random vector, find the regression function ϕ(x)=E(Y∣X=x).
